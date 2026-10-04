@@ -35,3 +35,6 @@ python main.py
 
 ## ⚠️ Disclaimer
 This tool is designed for educational and authorized testing purposes only. Usage of this software for unauthorized testing or malicious activities is strictly prohibited.
+
+> [!NOTE]
+> This code is not created entirely by me !
